@@ -1,0 +1,4 @@
+traceroute to treasure.example (198.51.100.42), 30 hops max
+ 1  10.0.0.1  (info: part1='falcon{r0') 
+ 2  203.0.113.1 (info: part2='ut3_') 
+ 3  198.51.100.1 (info: part3='hunt3r}')

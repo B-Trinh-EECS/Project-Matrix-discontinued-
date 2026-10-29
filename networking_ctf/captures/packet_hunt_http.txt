@@ -1,0 +1,9 @@
+GET /index.html HTTP/1.1
+Host: vulnerable.local
+User-Agent: Mozilla/5.0
+Accept: */*
+
+GET /secret/pa55w0rd/falcon{p@ck3t_sn1ff3r} HTTP/1.1
+Host: vulnerable.local
+User-Agent: curl/7.68.0
+Accept: */*

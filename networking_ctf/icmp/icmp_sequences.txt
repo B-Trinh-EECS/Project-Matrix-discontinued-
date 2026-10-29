@@ -1,0 +1,5 @@
+ICMP Echo Reply from 198.51.100.10: seq=0 ttl=64 time=12.3 ms
+ICMP Echo Reply from 198.51.100.10: seq=1 ttl=64 time=12.0 ms
+ICMP Echo Reply from 198.51.100.10: seq=2 ttl=64 time=12.1 ms
+# The server returns extra text on specific sequence numbers:
+seq=5 -> "falcon{1cmp_r3sp0ns3}"

@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Date: Tue, 04 Nov 2025 12:00:00 GMT
+X-Secret: ZmFjbG9ue2gzNGQzcl9tM2NzQGczfQ==
+Content-Type: text/html

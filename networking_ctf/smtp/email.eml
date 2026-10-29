@@ -1,0 +1,9 @@
+Delivered-To: victim@example.com
+Received: from mail.example.com (mail.example.com [198.51.100.50])
+From: attacker@example.net
+To: victim@example.com
+Subject: Hello
+X-Flag: falcon{m41l_1nspect0r}
+
+Hi,
+This is a test email.

@@ -1,0 +1,12 @@
+$TTL 86400
+@   IN  SOA ns1.example.com. hostmaster.example.com. (
+        2025110401 ; serial
+        3600       ; refresh
+        900        ; retry
+        604800     ; expire
+        86400 )    ; minimum
+
+@       IN  NS      ns1.example.com.
+ns1     IN  A       192.0.2.53
+secret  IN  TXT     "public info"
+flag    IN  TXT     "falcon{dn5_3xp10r3r}"
